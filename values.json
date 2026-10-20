@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T18:25:30Z",
+ "generated": "2026-10-20T03:43:47Z",
  "source": "https://sniperduels.org/api/v1/items",
  "counts": {
   "Sniper": 235,
@@ -3627,6 +3627,17 @@
     "WellWorn": 7600
    }
   },
+  "Butterfly_MildlyDisturbing": {
+   "name": "Mildly Disturbing Knife",
+   "type": "Knife",
+   "weapon": "Butterfly",
+   "rarity": "Knife",
+   "value": 23000,
+   "currency": "gems",
+   "robux": null,
+   "demand": "None",
+   "status": "Active"
+  },
   "Karambit_Onyx": {
    "name": "Onyx",
    "type": "Knife",
@@ -5545,17 +5556,6 @@
    "currency": "gems",
    "robux": null,
    "demand": "Low",
-   "status": "Active"
-  },
-  "Butterfly_MildlyDisturbing": {
-   "name": "Mildly Disturbing Knife",
-   "type": "Knife",
-   "weapon": "Butterfly",
-   "rarity": "Knife",
-   "value": null,
-   "currency": "gems",
-   "robux": null,
-   "demand": "None",
    "status": "Active"
   },
   "Cash_Top1": {

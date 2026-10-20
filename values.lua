@@ -1,5 +1,5 @@
 -- Sniper Duels weapon gem values
--- generated: 2026-10-19T18:25:30Z
+-- generated: 2026-10-20T03:43:47Z
 -- source: GET https://sniperduels.org/api/v1/items
 -- refresh: python3 fetch_values.py
 
@@ -286,6 +286,7 @@ return {
 	["Katana_Damascus"] = { name = "Damascus", type = "Knife", weapon = "Katana", rarity = "Knife", value = 25000, currency = "gems", demand = "Hype", status = "Active", conditions = { MintCondition = 25000 } },
 	["Katana_Orochi"] = { name = "Orochi", type = "Knife", weapon = "Katana", rarity = "Knife", value = 24200, currency = "gems", demand = "High", status = "Active", conditions = { MintCondition = 24200, StandardIssue = 16100, WellWorn = 11900 } },
 	["Butterfly_Adurite"] = { name = "Adurite", type = "Knife", weapon = "Butterfly", rarity = "Knife", value = 23000, currency = "gems", demand = "High", status = "Active", conditions = { MintCondition = 23000, StandardIssue = 11500, WellWorn = 7600 } },
+	["Butterfly_MildlyDisturbing"] = { name = "Mildly Disturbing Knife", type = "Knife", weapon = "Butterfly", rarity = "Knife", value = 23000, currency = "gems", demand = "None", status = "Active" },
 	["Karambit_Onyx"] = { name = "Onyx", type = "Knife", weapon = "Karambit", rarity = "Knife", value = 23000, currency = "gems", demand = "High", status = "Active" },
 	["Katana_Malachite"] = { name = "Malachite", type = "Knife", weapon = "Katana", rarity = "Knife", value = 23000, currency = "gems", demand = "High", status = "Active", conditions = { MintCondition = 23000, StandardIssue = 17300 } },
 	["ShadowDaggers_Onyx"] = { name = "Onyx", type = "Knife", weapon = "Shadow Daggers", rarity = "Knife", value = 23000, currency = "gems", demand = "Hype", status = "Active" },
@@ -417,7 +418,6 @@ return {
 	["Survivor_Bluesteel"] = { name = "Bluesteel", type = "Knife", weapon = "Survivor", rarity = "Knife", value = 2000, currency = "gems", demand = "Low", status = "Active", conditions = { MintCondition = 2000, StandardIssue = 1500, WellWorn = 900 } },
 	["Default_Bluesteel"] = { name = "Bluesteel", type = "Knife", weapon = "Default", rarity = "Knife", value = 1750, currency = "gems", demand = "Low", status = "Active", conditions = { MintCondition = 1750, StandardIssue = 1250, WellWorn = 1000 } },
 	["Survivor"] = { name = "Vanilla", type = "Knife", weapon = "Survivor", rarity = "Knife", value = 1500, currency = "gems", demand = "Low", status = "Active" },
-	["Butterfly_MildlyDisturbing"] = { name = "Mildly Disturbing Knife", type = "Knife", weapon = "Butterfly", rarity = "Knife", demand = "None", status = "Active" },
 	["Cash_Top1"] = { name = "Bundle Of Money", type = "Knife", weapon = "Cash", rarity = "Knife", demand = "None", status = "Active" },
 	["Cash_Top2"] = { name = "Bundle Of Money", type = "Knife", weapon = "Cash", rarity = "Knife", demand = "None", status = "Active" },
 	["Cash_Top3"] = { name = "Bundle Of Money", type = "Knife", weapon = "Cash", rarity = "Knife", demand = "None", status = "Active" },
