@@ -1,5 +1,5 @@
 -- Sniper Duels weapon gem values
--- generated: 2026-10-22T03:35:12Z
+-- generated: 2026-10-22T11:16:37Z
 -- source: GET https://sniperduels.org/api/v1/items
 -- refresh: python3 fetch_values.py
 
