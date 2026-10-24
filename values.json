@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T21:04:29Z",
+ "generated": "2026-10-24T03:33:57Z",
  "source": "https://sniperduels.org/api/v1/items",
  "counts": {
   "Sniper": 235,
@@ -3087,28 +3087,6 @@
    "demand": "None",
    "status": "Active"
   },
-  "SFoTHSword_Illumina": {
-   "name": "Illumina",
-   "type": "Knife",
-   "weapon": "Linked Sword",
-   "rarity": "Knife",
-   "value": 195000,
-   "currency": "gems",
-   "robux": null,
-   "demand": "High",
-   "status": "Active"
-  },
-  "SFoTHSword_Ghostwalker": {
-   "name": "Ghostwalker",
-   "type": "Knife",
-   "weapon": "Linked Sword",
-   "rarity": "Knife",
-   "value": 180000,
-   "currency": "gems",
-   "robux": null,
-   "demand": "Hype",
-   "status": "Active"
-  },
   "Katana_TrueBlack": {
    "name": "True Black",
    "type": "Knife",
@@ -3142,28 +3120,6 @@
    "demand": "None",
    "status": "Active"
   },
-  "SFoTHSword_Windforce": {
-   "name": "Windforce",
-   "type": "Knife",
-   "weapon": "Linked Sword",
-   "rarity": "Knife",
-   "value": 130000,
-   "currency": "gems",
-   "robux": null,
-   "demand": "Hype",
-   "status": "Active"
-  },
-  "SFoTHSword_Firebrand": {
-   "name": "Firebrand",
-   "type": "Knife",
-   "weapon": "Linked Sword",
-   "rarity": "Knife",
-   "value": 120000,
-   "currency": "gems",
-   "robux": null,
-   "demand": "High",
-   "status": "Active"
-  },
   "Karambit_Nebuleum": {
    "name": "Nebuleum",
    "type": "Knife",
@@ -3180,17 +3136,6 @@
     "WellWorn": 17300
    }
   },
-  "SFoTHSword_IceDagger": {
-   "name": "Ice Dagger",
-   "type": "Knife",
-   "weapon": "Linked Sword",
-   "rarity": "Knife",
-   "value": 110000,
-   "currency": "gems",
-   "robux": null,
-   "demand": "Hype",
-   "status": "Active"
-  },
   "Broken_Linked_Sword": {
    "name": "Forgotten Hero",
    "type": "Knife",
@@ -3202,15 +3147,15 @@
    "demand": "None",
    "status": "Active"
   },
-  "SFoTHSword_Venomshank": {
-   "name": "Venomshank",
+  "SFoTHSword_Illumina": {
+   "name": "Illumina",
    "type": "Knife",
    "weapon": "Linked Sword",
    "rarity": "Knife",
    "value": 100000,
    "currency": "gems",
    "robux": null,
-   "demand": "Medium",
+   "demand": "High",
    "status": "Active"
   },
   "Scythe_Vanilla": {
@@ -3224,15 +3169,26 @@
    "demand": "None",
    "status": "Active"
   },
-  "SFoTHSword_LinkedSword": {
-   "name": "Linked Sword",
+  "SFoTHSword_Ghostwalker": {
+   "name": "Ghostwalker",
    "type": "Knife",
    "weapon": "Linked Sword",
    "rarity": "Knife",
-   "value": 95000,
+   "value": 90000,
    "currency": "gems",
    "robux": null,
-   "demand": "Medium",
+   "demand": "Hype",
+   "status": "Active"
+  },
+  "SFoTHSword_IceDagger": {
+   "name": "Ice Dagger",
+   "type": "Knife",
+   "weapon": "Linked Sword",
+   "rarity": "Knife",
+   "value": 90000,
+   "currency": "gems",
+   "robux": null,
+   "demand": "Hype",
    "status": "Active"
   },
   "Stake_Darkwood": {
@@ -3252,6 +3208,39 @@
    "weapon": "Candy Cane",
    "rarity": "Knife",
    "value": 88400,
+   "currency": "gems",
+   "robux": null,
+   "demand": "Hype",
+   "status": "Active"
+  },
+  "SFoTHSword_Firebrand": {
+   "name": "Firebrand",
+   "type": "Knife",
+   "weapon": "Linked Sword",
+   "rarity": "Knife",
+   "value": 85000,
+   "currency": "gems",
+   "robux": null,
+   "demand": "High",
+   "status": "Active"
+  },
+  "SFoTHSword_Venomshank": {
+   "name": "Venomshank",
+   "type": "Knife",
+   "weapon": "Linked Sword",
+   "rarity": "Knife",
+   "value": 85000,
+   "currency": "gems",
+   "robux": null,
+   "demand": "Medium",
+   "status": "Active"
+  },
+  "SFoTHSword_Windforce": {
+   "name": "Windforce",
+   "type": "Knife",
+   "weapon": "Linked Sword",
+   "rarity": "Knife",
+   "value": 80000,
    "currency": "gems",
    "robux": null,
    "demand": "Hype",
@@ -3282,6 +3271,17 @@
    "currency": "gems",
    "robux": null,
    "demand": "Hype",
+   "status": "Active"
+  },
+  "SFoTHSword_LinkedSword": {
+   "name": "Linked Sword",
+   "type": "Knife",
+   "weapon": "Linked Sword",
+   "rarity": "Knife",
+   "value": 70000,
+   "currency": "gems",
+   "robux": null,
+   "demand": "Medium",
    "status": "Active"
   },
   "Katana_Peppermint": {
@@ -3440,6 +3440,17 @@
     "StandardIssue": 11500,
     "WellWorn": 7600
    }
+  },
+  "Karambit_CaseHardened": {
+   "name": "Case Hardened",
+   "type": "Knife",
+   "weapon": "Karambit",
+   "rarity": "Knife",
+   "value": 30000,
+   "currency": "gems",
+   "robux": null,
+   "demand": "None",
+   "status": "Active"
   },
   "Karambit_Vampiric": {
    "name": "Vampiric",
@@ -5617,17 +5628,6 @@
    "name": "Golden Hammer",
    "type": "Knife",
    "weapon": "Hammer",
-   "rarity": "Knife",
-   "value": null,
-   "currency": "gems",
-   "robux": null,
-   "demand": "None",
-   "status": "Active"
-  },
-  "Karambit_CaseHardened": {
-   "name": "Case Hardened",
-   "type": "Knife",
-   "weapon": "Karambit",
    "rarity": "Knife",
    "value": null,
    "currency": "gems",

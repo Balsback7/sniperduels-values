@@ -1,5 +1,5 @@
 -- Sniper Duels weapon gem values
--- generated: 2026-10-23T21:04:29Z
+-- generated: 2026-10-24T03:33:57Z
 -- source: GET https://sniperduels.org/api/v1/items
 -- refresh: python3 fetch_values.py
 
@@ -244,23 +244,23 @@ return {
 	["Bayonet_Angelic"] = { name = "Angelic", type = "Knife", weapon = "Bayonet", rarity = "Knife", value = 1450000, currency = "gems", demand = "None", status = "Active" },
 	["SFoTHSword_Darkheart"] = { name = "Darkheart", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 200000, currency = "gems", demand = "Hype", status = "Active" },
 	["Scythe_Beast"] = { name = "Beast", type = "Knife", weapon = "Scythe", rarity = "Knife", value = 200000, currency = "gems", demand = "None", status = "Active" },
-	["SFoTHSword_Illumina"] = { name = "Illumina", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 195000, currency = "gems", demand = "High", status = "Active" },
-	["SFoTHSword_Ghostwalker"] = { name = "Ghostwalker", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 180000, currency = "gems", demand = "Hype", status = "Active" },
 	["Katana_TrueBlack"] = { name = "True Black", type = "Knife", weapon = "Katana", rarity = "Knife", value = 150000, currency = "gems", demand = "Hype", status = "Active" },
 	["Katana_TrueWhite"] = { name = "True White", type = "Knife", weapon = "Katana", rarity = "Knife", value = 150000, currency = "gems", demand = "Hype", status = "Active" },
 	["Scythe_Hallows"] = { name = "Hallows", type = "Knife", weapon = "Scythe", rarity = "Knife", value = 150000, currency = "gems", demand = "None", status = "Active" },
-	["SFoTHSword_Windforce"] = { name = "Windforce", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 130000, currency = "gems", demand = "Hype", status = "Active" },
-	["SFoTHSword_Firebrand"] = { name = "Firebrand", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 120000, currency = "gems", demand = "High", status = "Active" },
 	["Karambit_Nebuleum"] = { name = "Nebuleum", type = "Knife", weapon = "Karambit", rarity = "Knife", value = 115000, currency = "gems", demand = "Hype", status = "Active", conditions = { MintCondition = 115000, StandardIssue = 28800, WellWorn = 17300 } },
-	["SFoTHSword_IceDagger"] = { name = "Ice Dagger", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 110000, currency = "gems", demand = "Hype", status = "Active" },
 	["Broken_Linked_Sword"] = { name = "Forgotten Hero", type = "Knife", weapon = "Broken Sword", rarity = "Knife", value = 100000, currency = "gems", demand = "None", status = "Active" },
-	["SFoTHSword_Venomshank"] = { name = "Venomshank", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 100000, currency = "gems", demand = "Medium", status = "Active" },
+	["SFoTHSword_Illumina"] = { name = "Illumina", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 100000, currency = "gems", demand = "High", status = "Active" },
 	["Scythe_Vanilla"] = { name = "Vanilla", type = "Knife", weapon = "Scythe", rarity = "Knife", value = 100000, currency = "gems", demand = "None", status = "Active" },
-	["SFoTHSword_LinkedSword"] = { name = "Linked Sword", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 95000, currency = "gems", demand = "Medium", status = "Active" },
+	["SFoTHSword_Ghostwalker"] = { name = "Ghostwalker", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 90000, currency = "gems", demand = "Hype", status = "Active" },
+	["SFoTHSword_IceDagger"] = { name = "Ice Dagger", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 90000, currency = "gems", demand = "Hype", status = "Active" },
 	["Stake_Darkwood"] = { name = "Darkwood", type = "Knife", weapon = "Stake", rarity = "Knife", value = 90000, currency = "gems", demand = "None", status = "Active" },
 	["CandyCane_Rainbow"] = { name = "Tutti Frutti", type = "Knife", weapon = "Candy Cane", rarity = "Knife", value = 88400, currency = "gems", demand = "Hype", status = "Active" },
+	["SFoTHSword_Firebrand"] = { name = "Firebrand", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 85000, currency = "gems", demand = "High", status = "Active" },
+	["SFoTHSword_Venomshank"] = { name = "Venomshank", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 85000, currency = "gems", demand = "Medium", status = "Active" },
+	["SFoTHSword_Windforce"] = { name = "Windforce", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 80000, currency = "gems", demand = "Hype", status = "Active" },
 	["Katana_OfDestiny"] = { name = "Katana of Destiny", type = "Knife", weapon = "Katana", rarity = "Knife", value = 77000, currency = "gems", demand = "Medium", status = "Active", conditions = { MintCondition = 77000, StandardIssue = 34600, WellWorn = 13400 } },
 	["Katana_Nebuleum"] = { name = "Nebuleum", type = "Knife", weapon = "Katana", rarity = "Knife", value = 75000, currency = "gems", demand = "Hype", status = "Active" },
+	["SFoTHSword_LinkedSword"] = { name = "Linked Sword", type = "Knife", weapon = "Linked Sword", rarity = "Knife", value = 70000, currency = "gems", demand = "Medium", status = "Active" },
 	["Katana_Peppermint"] = { name = "Peppermint", type = "Knife", weapon = "Katana", rarity = "Knife", value = 69200, currency = "gems", demand = "High", status = "Active", conditions = { MintCondition = 69200, StandardIssue = 25000, WellWorn = 13400 } },
 	["CandyCane_Blue"] = { name = "Blueberry", type = "Knife", weapon = "Candy Cane", rarity = "Knife", value = 69000, currency = "gems", demand = "Hype", status = "Active" },
 	["Stake_Vanilla"] = { name = "Vanilla", type = "Knife", weapon = "Stake", rarity = "Knife", value = 60000, currency = "gems", demand = "None", status = "Active" },
@@ -273,6 +273,7 @@ return {
 	["Katana_Cherry"] = { name = "Cherry", type = "Knife", weapon = "Katana", rarity = "Knife", value = 32600, currency = "gems", demand = "Hype", status = "Active", conditions = { MintCondition = 32600, StandardIssue = 23000, WellWorn = 15300 } },
 	["Katana_JindaiMoji"] = { name = "Jindai Moji", type = "Knife", weapon = "Katana", rarity = "Knife", value = 30700, currency = "gems", demand = "Hype", status = "Active" },
 	["Butterfly_Cherry"] = { name = "Cherry", type = "Knife", weapon = "Butterfly", rarity = "Knife", value = 30500, currency = "gems", demand = "Hype", status = "Active", conditions = { MintCondition = 30500, StandardIssue = 11500, WellWorn = 7600 } },
+	["Karambit_CaseHardened"] = { name = "Case Hardened", type = "Knife", weapon = "Karambit", rarity = "Knife", value = 30000, currency = "gems", demand = "None", status = "Active" },
 	["Karambit_Vampiric"] = { name = "Vampiric", type = "Knife", weapon = "Karambit", rarity = "Knife", value = 30000, currency = "gems", demand = "None", status = "Active" },
 	["Katana_Crimson"] = { name = "Crimson", type = "Knife", weapon = "Katana", rarity = "Knife", value = 30000, currency = "gems", demand = "High", status = "Active", conditions = { MintCondition = 25000, StandardIssue = 19800, WellWorn = 15380 } },
 	["Survivor_VidreCova"] = { name = "Vidre Cova", type = "Knife", weapon = "Survivor", rarity = "Knife", value = 29000, currency = "gems", demand = "Hype", status = "Active" },
@@ -424,7 +425,6 @@ return {
 	["Cash_Top4thru10"] = { name = "Bundle Of Money", type = "Knife", weapon = "Cash", rarity = "Knife", demand = "None", status = "Active" },
 	["DefaultKnife"] = { name = "Default", type = "Knife", weapon = "Default", rarity = "Common", demand = "None", status = "Active" },
 	["GoldenHammer"] = { name = "Golden Hammer", type = "Knife", weapon = "Hammer", rarity = "Knife", demand = "None", status = "Active" },
-	["Karambit_CaseHardened"] = { name = "Case Hardened", type = "Knife", weapon = "Karambit", rarity = "Knife", demand = "None", status = "Active" },
 	["Karambit_UVMapFade"] = { name = "UV Map Fade", type = "Knife", weapon = "Karambit", rarity = "Knife", demand = "None", status = "Active" },
 	["Katana_Hellforged"] = { name = "Hellforged", type = "Knife", weapon = "Katana", rarity = "Knife", demand = "None", status = "Active" },
 	["case:Halloween2025"] = { name = "HALLOWS BASKET", type = "Misc", weapon = "Case", rarity = "Misc", value = 1500, currency = "gems", demand = "None", status = "Active" },
